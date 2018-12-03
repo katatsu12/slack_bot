@@ -1,1 +1,1 @@
-Simple slack bot greeter
+# Simple slack bot greeter

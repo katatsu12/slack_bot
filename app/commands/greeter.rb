@@ -15,9 +15,3 @@ module Bot
     end
   end
 end
-
-class HelloText
-  def self.say_hello
-    'Hello! This is a Bot!'
-  end
-end
